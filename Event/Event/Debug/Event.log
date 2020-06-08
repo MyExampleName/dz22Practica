@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\никита\desktop\event\event\main.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\никита\desktop\event\event\main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\никита\desktop\event\event\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\никита\desktop\event\event\main.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  Event.vcxproj -> C:\Users\Никита\Desktop\Event\Debug\Event.exe
